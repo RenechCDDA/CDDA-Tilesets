@@ -9,5 +9,8 @@
   },
   {
     "portraits.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": 0, "sprite_offset_y": 0 }
+  },
+  {
+    "fallback.png": { "fallback": true, "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": 0 }
   }
 ]
